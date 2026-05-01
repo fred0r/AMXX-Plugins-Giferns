@@ -1,0 +1,9 @@
+[ru]
+SAC__NO_ACCESS = Доступ ограничен! Прочтите консоль (кнопка ~)
+SAC__INFO_1 = Для получения доступа обратитесь на сайт mk-cs.kz
+SAC__INFO_2 = Или к администратору в Telegram: @majorkingskz
+
+[en]
+SAC__NO_ACCESS = Access restricted! Read the console (~ button)
+SAC__INFO_1 = To gain access, please visit mk-cs.kz
+SAC__INFO_2 = Or contact the admin on Telegram: @majorkingskz
